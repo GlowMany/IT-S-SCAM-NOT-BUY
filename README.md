@@ -154,7 +154,9 @@ The most advanced and stealth-capable hCaptcha solver on the market.
 
 For subscription plans, commercial use, or custom integration support, contact:  
 [My own Telegram](https://t.me/dorukuz) 
+
 [AXI DEV Telegram Group](https://t.me/axi1337) 
+
 ---
 
 *This project is a cutting-edge AI assistant helping Discord automation workflows handle hCaptcha challenges with ease.*
