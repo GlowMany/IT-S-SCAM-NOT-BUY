@@ -1,4 +1,3 @@
-[Jump to Premium AXI hCaptcha AI Solver ↓](#-axi-hcaptcha-ai-solver--premium-edition)
 
 # Discord hCaptcha AI Solver
 
@@ -110,46 +109,6 @@ The API server will start at `http://0.0.0.0:8000`.
 ## License
 
 This repository and code are for demonstration and paid use only. Unauthorized commercial use is prohibited.
-
----
-# 🧠 AXI hCaptcha AI Solver – Premium Edition
-
-The most advanced and stealth-capable hCaptcha solver on the market.
-
----
-
-## 🚀 Key Features
-
-✅ **Undetectable Solving Behavior**  
-✅ **Handles Complex Challenges Instantly**  
-✅ **Real Interaction Patterns and Encodings**  
-✅ **Blazing Fast API (<150ms average response)**  
-✅ **Fully Automation-Ready – Plug & Play**
-
-> No random guessing. No basic scraping.  
-> This system mimics expected client behavior with precision — **exactly how validation systems expect it**.
-
----
-
-## 💳 Pricing
-
-| License      | Price     | Access Type                              |
-|--------------|-----------|--------------------------------------    |
-| Monthly      | €50       | Unlimited usage, full access for a month |
-| Lifetime     | €200      | One-time payment, lifetime usage         |
-| Source Code  | €1200     | Full backend, self-hosted freedom        |
-
----
-
-## 🛡️ Why It Works
-
-- Simulates client behavior beyond basic headers  
-- Encodes and responds as a real user would  
-- Resilient to browser checks, bot detection layers, and challenge variations  
-- Can operate silently, in the background of existing workflows
-
-> This is **not** the public or free version.  
-> It is a fully upgraded, private system built for commercial-grade operations.
 
 ---
 ## Contact
