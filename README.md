@@ -4,8 +4,15 @@
 A powerful AI-based hCaptcha solver API designed specifically for Discord bot automation. This project provides a FastAPI web server running a fine-tuned Dutch language transformer model to automatically answer hCaptcha accessibility challenges in Dutch.
 
 ---
-Buy me a coffe maybe?
-LTC Wallet : ltc1qv9fltuf43re825q90kelm2tfym42sdp728v897
+# 🔥 NEW: API-Based hCaptcha Solver!
+Works like CapMonster & 2Captcha
+€50/month | €200 lifetime | Source Code: €1200
+Fast. Reliable. Easy.
+https://t.me/dorukuz
+
+
+https://github.com/user-attachments/assets/4eb3d40f-3228-4159-82c4-6fce5fbea371
+
 
 ## Features
 
